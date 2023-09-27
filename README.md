@@ -12,7 +12,17 @@
 
 <br>
 
-
+**Pull Requests Info** <a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github">DigitalOcean</a>
 
 <br>
+
+# [**Instructions - Part 1:**](/docs/pdf/Switch-QA-GQS2-PL-MCReviews.pdf)
+
+# [**Instructions - Part 2:**](/docs/pdf/Switch-QA-GQS2-PL-MCReviews-Parte2.pdf)
+
+# **Presentation:**
+
+<br>
+<br>
+<hr>
 <p align="center">&lt;&lt;&lt;&copy;<a href="https://github.com/Senninhas-2023" target="blank">Senninhas-2023</a>&gt;&gt;&gt;</p>
