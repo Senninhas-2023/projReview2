@@ -20,7 +20,7 @@
 
 # [**Instructions - Part 2:**](/docs/pdf/Switch-QA-GQS2-PL-MCReviews-Parte2.pdf)
 
-# **Presentation:**
+# [**Presentation:**](/docs/readme.md)
 
 <br>
 <br>
