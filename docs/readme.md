@@ -71,7 +71,7 @@ export function sumWithDiscount(disc: number, ...parcelas: number[]): number {
 
 <h1 align="center">
 
-![06](/docs/img/05.PNG)
+![06](/docs/img/05.png)
 
 <br>
 
