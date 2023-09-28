@@ -55,7 +55,21 @@ export function sumWithDiscount(disc: number, ...parcelas: number[]): number {
 
 ### Creation of a pull request with the assingment of a team member as a reviewer of the code changes.
 
-![Pull Request](/docs/img/03.PNG)
+![04](/docs/img/03.PNG)
+
+![05](/docs/img/04.PNG)
+![06](/docs/img/05.PNG)
+![07](/docs/img/05-2.PNG)
+![08](/docs/img/06.PNG)
+![09](/docs/img/07.PNG)
+![10](/docs/img/08.PNG)
+![11](/docs/img/09.PNG)
+![12](/docs/img/10.PNG)
+
+
+
+
+
 
 <br>
 <br>
