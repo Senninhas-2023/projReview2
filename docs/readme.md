@@ -14,7 +14,7 @@
 
 <h1>
 
-<h1 align="center">
+<h1 align="center">git checkou
 
 ![02](/docs/img/01.PNG)
 
@@ -25,6 +25,25 @@
 ![03](/docs/img/02.PNG)
 
 <h1>
+
+Codechange
+(added function sumWithDiscount(disc, valores) to the code of calc.ts)
+
+Orignal Code:
+````bash
+export function sumOnly(...parcelas: number[]): number {
+    return parcelas.reduce((total, parcela) => total + parcela);
+} 
+````
+
+Codechange:
+````bash
+export function sumWithDiscount(disc: number, ...parcelas: number[]): number {
+    return parcelas.reduce((total, parcela) => total + parcela) * (1 - disc);
+}
+````
+
+
 
 <br>
 <br>
