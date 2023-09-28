@@ -5,45 +5,57 @@
 </p>
 <hr>
 
-# **Presentation:**
+# 1 - Organization Structure on Github:
 
-## 1 - Organization Structure on Github
 <h1 align="center">
 
 ![01](/docs/img/00.PNG)
 
-<h1>
+<br>
 
-<h1 align="center">git checkou
+# 2 - Project Creation
+
+<h1 align="center">
 
 ![02](/docs/img/01.PNG)
 
-<h1>
+
+<br>
+
+# 3 -
 
 <h1 align="center">
 
 ![03](/docs/img/02.PNG)
 
-<h1>
+</h1>
 
-Codechange
-(added function sumWithDiscount(disc, valores) to the code of calc.ts)
+# 4 - Codechange
 
-Orignal Code:
+### (added function sumWithDiscount(disc, valores) to the code of calc.ts)
+
+* **4.1 - Orignal Code:**
+
 ````bash
 export function sumOnly(...parcelas: number[]): number {
     return parcelas.reduce((total, parcela) => total + parcela);
 } 
 ````
 
-Codechange:
+* **4.2 - Codechange:**
+
 ````bash
 export function sumWithDiscount(disc: number, ...parcelas: number[]): number {
     return parcelas.reduce((total, parcela) => total + parcela) * (1 - disc);
 }
 ````
+<br>
 
+# 5 - Pull request:
 
+### Creation of a pull request with the assingment of a team member as a reviewer of the code changes.
+
+![Pull Request](/docs/img/03.PNG)
 
 <br>
 <br>
